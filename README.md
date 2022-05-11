@@ -1,6 +1,4 @@
 # 2048
 2048 Game designed in ‘C++’ language
 
-Home Page
-
-![image](https://user-images.githubusercontent.com/101966719/167847713-d3bcecac-79a5-4e26-8b45-e41f294cde58.png)
+![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/101966719/167851048-1a607820-cd22-4023-a66c-e16c778cb489.gif)
